@@ -23,6 +23,9 @@ This is a simple prototype, no security is implemented between the sensor and th
 It means that any device connected to your local network can send fake temperature data to your server.
 So you maybe should not use this sensor to monitor the temperature of you nuclear power plant ;)
 
+## Server part of the project
+https://github.com/flowernert/wifi_temperature_server
+
 ## License
 Creative Commons BY-NC-SA
 This software is provided "as is" and its user should assume no liability of its author on any consequence resulting of its usage.
